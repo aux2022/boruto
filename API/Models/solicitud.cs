@@ -101,7 +101,7 @@ int TiempoTotal, string GrasaUtilizada, string RefaMateHerra,
 
 //cierreSolicitud
 string FechaFinal, string HoraFinal, string TrabajoSanitizado, string EstatusActividad,
-string FirmaSolicitante, string EmailSent2, string Nombre3
+string FirmaSolicitante, string Nombre3,string EmailSent2
             )
         {
             idSolicitud = IdSolicitud;
@@ -161,7 +161,7 @@ int TiempoTotal, string GrasaUtilizada, string RefaMateHerra,
 
 //cierreSolicitud
 string FechaFinal, string HoraFinal, string TrabajoSanitizado, string EstatusActividad,
-string FirmaSolicitante, string EmailSent2, string Nombre3
+string FirmaSolicitante, string Nombre3, string EmailSent2
             )
         {
             nombreSolicitante = NombreSolicitante;

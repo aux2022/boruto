@@ -173,6 +173,7 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PendientesController.cs" />
+    <Compile Include="Controllers\Solicitud7Controller.cs" />
     <Compile Include="Controllers\SolicitudUsuarios.cs" />
     <Compile Include="Controllers\Solicitud5Controller.cs" />
     <Compile Include="Controllers\Solicitud4Controller.cs" />

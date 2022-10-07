@@ -1126,8 +1126,6 @@ D:\Aplicaciones\Angular\Bioflex\API\API\obj\Release\back_salidaActivos.csproj.Co
 D:\Aplicaciones\Angular\Bioflex\API\API\obj\Release\back_salidaActivos.csproj.CopyComplete
 D:\Aplicaciones\Angular\Bioflex\API\API\obj\Release\back_salidaActivos.dll
 D:\Aplicaciones\Angular\Bioflex\API\API\obj\Release\back_salidaActivos.pdb
-C:\Users\Administrador\Documents\Randy\API 2\API\obj\Release\back_salidaActivos.csproj.AssemblyReference.cache
-C:\Users\Administrador\Documents\Randy\API 2\API\obj\Release\back_salidaActivos.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Documents\Randy\API 2\API\bin\back_salidaActivos.dll.config
 C:\Users\Administrador\Documents\Randy\API 2\API\bin\back_salidaActivos.dll
 C:\Users\Administrador\Documents\Randy\API 2\API\bin\back_salidaActivos.pdb
@@ -1226,6 +1224,8 @@ C:\Users\Administrador\Documents\Randy\API 2\API\bin\es\System.Web.Razor.resourc
 C:\Users\Administrador\Documents\Randy\API 2\API\bin\es\System.Web.WebPages.resources.dll
 C:\Users\Administrador\Documents\Randy\API 2\API\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Administrador\Documents\Randy\API 2\API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrador\Documents\Randy\API 2\API\obj\Release\back_salidaActivos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Randy\API 2\API\obj\Release\back_salidaActivos.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Documents\Randy\API 2\API\obj\Release\back_salidaActivos.csproj.CopyComplete
 C:\Users\Administrador\Documents\Randy\API 2\API\obj\Release\back_salidaActivos.dll
 C:\Users\Administrador\Documents\Randy\API 2\API\obj\Release\back_salidaActivos.pdb
